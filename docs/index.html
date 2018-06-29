@@ -2,20 +2,64 @@
   <head>
     <title> Download Page </title>
     <style>
-      .content {
+      body {
         background-image: url(bg.png);
-        opacity: 0.7;
         }
+      * {box-sizing: border-box;}
+      .caption-top {
+        width: 400px;
+        margin: 50px auto 0;
+        border: 5px solid #E06B2A;
+        position: relative;
+      }
+      .caption-top img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+      .caption-top h2 {
+        margin: 0;
+        color: white;
+        line-height: 1.1;
+        font-size: 1.2em;
+        font-weight: 200;
+        padding: 10px 20px 10px 10px;
+        border-bottom-right-radius: 20px;
+        background: #E06B2A; 
+        position: absolute;
+        top: -5px;
+        left: 0;
+        box-shadow: -3px -1px 3px -3px #E06B2A, 5px 10px 20px -5px hsla(0, 0%, 0%, .4);
+      }
+      .date {
+        font-family: "Open Sans", sans-serif;
+        font-size: .7em;
+      }
   </style>
   </head>
   <body>
     <center>
-    <div class="content">
     <img src="logo.png" alt="Logo" />
-    <a href="https://github.com/PopTobus/MC-Technology/archive/master.zip" download><img src="stable_zip.png" /></a> 
+    <!-- <a href="https://github.com/PopTobus/MC-Technology/archive/master.zip" download><img src="stable_zip.png" /></a> -->
     <br />
-    <a href="https://github.com/PopTobus/MC-Technology/archive/pre-release.zip" download><img src="unstable_zip.png" /></a>
-      </div>
+    <!-- <a href="https://github.com/PopTobus/MC-Technology/archive/pre-release.zip" download><img src="unstable_zip.png" /></a> -->
+    <a href="https://github.com/PopTobus/MC-Technology/archive/master.zip" download>
+    <div class="caption-top">
+    <h2>Download<br>
+    <i class="state">Stable Version</i>
+    </h2>
+    <img src="stable_zip.png">
+    </div>
+    </a>
+    <br />
+    <a href="https://github.com/PopTobus/MC-Technology/archive/pre-release.zip" download>
+    <div class="caption-top">
+    <h2>Download<br>
+    <i class="state">Unstable Version</i>
+    </h2>
+    <img src="unstable_zip.png">
+    </div>
+    </a>
     </center>
   </body>
 </html>
