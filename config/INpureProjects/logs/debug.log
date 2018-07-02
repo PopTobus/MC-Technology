@@ -14,6 +14,7 @@ Found creative tab: buildcraft.facades
 Found creative tab: buildcraft.gates
 Found creative tab: CarpentersBlocks
 Found creative tab: misc
+Found creative tab: Eln
 Found creative tab: EnderIO
 Found creative tab: forestry
 Found creative tab: apiculture
@@ -98,12 +99,12 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Railcraft:brick.abyssal_2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Railcraft:brick.abyssal_2
+getRandomMaterial called. Returned: ProjRed|Illumination:projectred.illumination.lamp_21
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ProjRed|Illumination:projectred.illumination.lamp_21
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 1957
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 343
+getFacadesSize called. Returned: 1962
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 843
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -239,8 +240,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 1373
-override called. Params: appliedenergistics2, item.ItemFacade, 939
+getNumberOfTypes called. Returned: 1377
+override called. Params: appliedenergistics2, item.ItemFacade, 1141
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js

@@ -3034,6 +3034,168 @@ chisel:woolen_clay:12, Шерстяная глина
 chisel:woolen_clay:13, Шерстяная глина
 chisel:woolen_clay:14, Шерстяная глина
 chisel:woolen_clay:15, Шерстяная глина
+Eln:Eln.ghostBlock, tile.null.name
+Eln:Eln.lightBlock, tile.null.name
+Eln:Eln.SixNode:128, Заземляющий провод
+Eln:Eln.SixNode:136, Распределитель
+Eln:Eln.SixNode:192, Творческий источник энергии
+Eln:Eln.SixNode:193, Источник сигнала
+Eln:Eln.SixNode:2048, Сигнальный провод
+Eln:Eln.SixNode:2052, Низковольтный провод
+Eln:Eln.SixNode:2056, Средневольтовый провод
+Eln:Eln.SixNode:2060, Высоковольтный провод
+Eln:Eln.SixNode:2064, Силовой кабель
+Eln:Eln.SixNode:3073, Медный теплопровод
+Eln:Eln.SixNode:4096, Люстра
+Eln:Eln.SixNode:4097, Прожектор
+Eln:Eln.SixNode:4100, Прочный плафон
+Eln:Eln.SixNode:4101, Плоский плафон
+Eln:Eln.SixNode:4102, Обычный плафон
+Eln:Eln.SixNode:4103, Люминесцентный плафон
+Eln:Eln.SixNode:4104, Уличный фонарь
+Eln:Eln.SixNode:4105, Плафон-канделябр
+Eln:Eln.SixNode:4108, Удлиненный подвесной плафон
+Eln:Eln.SixNode:4109, Плафон на длинной подвеске
+Eln:Eln.SixNode:4160, Блок освещения
+Eln:Eln.SixNode:4224, Маломощный зарядник на 50В
+Eln:Eln.SixNode:4225, Зарядник на 50В
+Eln:Eln.SixNode:4228, Зарядник на 200В
+Eln:Eln.SixNode:4289, Розетка на 50В
+Eln:Eln.SixNode:4290, Розетка на 200В
+Eln:Eln.SixNode:5888, Сигнальный приемник
+Eln:Eln.SixNode:5896, Сигнальный передатчик
+Eln:Eln.SixNode:5904, Сигнальный усилитель
+Eln:Eln.SixNode:5952, Осциллограф
+Eln:Eln.SixNode:5953, Современный осциллограф
+Eln:Eln.SixNode:5954, Продвинутый осциллограф
+Eln:Eln.SixNode:6016, Низковольтное реле
+Eln:Eln.SixNode:6017, Средневольтовое реле
+Eln:Eln.SixNode:6018, Высоковольтное реле
+Eln:Eln.SixNode:6019, Силовое реле
+Eln:Eln.SixNode:6020, Реле
+Eln:Eln.SixNode:6080, Сигнальный ограничитель
+Eln:Eln.SixNode:6081, Сигнальный переключатель
+Eln:Eln.SixNode:6088, Сигнальная кнопка
+Eln:Eln.SixNode:6092, Беспроводная сигнальная кнопка
+Eln:Eln.SixNode:6096, Беспроводной сигнальный переключатель
+Eln:Eln.SixNode:6144, Диод на 10А
+Eln:Eln.SixNode:6145, Диод на 25А
+Eln:Eln.SixNode:6152, Диод
+Eln:Eln.SixNode:6176, Конденсатор
+Eln:Eln.SixNode:6178, Катушка индуктивности
+Eln:Eln.SixNode:6180, Резистор
+Eln:Eln.SixNode:6181, Реостат
+Eln:Eln.SixNode:6182, Термистор
+Eln:Eln.SixNode:6212, Силовой рубильник
+Eln:Eln.SixNode:6208, Высоковольтный рубильник
+Eln:Eln.SixNode:6209, Низковольтный выключатель
+Eln:Eln.SixNode:6210, Средневольтовый выключатель
+Eln:Eln.SixNode:6272, Выключатель
+Eln:Eln.SixNode:6276, Вольтметр
+Eln:Eln.SixNode:6277, Продвинутый счетчик
+Eln:Eln.SixNode:6278, Electrical Fuse Holder
+Eln:Eln.SixNode:6400, Электрический зонд
+Eln:Eln.SixNode:6401, Датчик напряжения
+Eln:Eln.SixNode:6464, Термальный датчик
+Eln:Eln.SixNode:6465, Датчик температуры
+Eln:Eln.SixNode:6528, Аналоговый индикатор
+Eln:Eln.SixNode:6536, Светодиодный индикатор
+Eln:Eln.SixNode:6592, Ядерная сирена
+Eln:Eln.SixNode:6593, Обыкновенная сирена
+Eln:Eln.SixNode:6656, Датчик дневного света
+Eln:Eln.SixNode:6657, Датчик света
+Eln:Eln.SixNode:6660, Погодный сенсор
+Eln:Eln.SixNode:6664, Электрический анемометр
+Eln:Eln.SixNode:6668, Датчик движения
+Eln:Eln.SixNode:6669, Датчик огня
+Eln:Eln.SixNode:6670, Electrical Fire Buzzer
+Eln:Eln.SixNode:6912, Приемщик редстоун-сигнала
+Eln:Eln.SixNode:6913, Испускатель редстоун-сигнала
+Eln:Eln.SixNode:6976, Таймер
+Eln:Eln.SixNode:6980, Обработчик сигнала
+Eln:Eln.SixNode:7424, Сборщик каучука
+Eln:Eln.SixNode:7492, Аналоговые часы
+Eln:Eln.SixNode:7493, Цифровые часы
+Eln:Eln.SixNode:7496, Подсказка
+Eln:Eln.SixNode:7552, Чип с инвертором
+Eln:Eln.SixNode:7553, Чип с элементом И
+Eln:Eln.SixNode:7554, Чип с обратным элементом И
+Eln:Eln.SixNode:7555, Чип с элементом ИЛИ
+Eln:Eln.SixNode:7556, Чип с обратным элементом ИЛИ
+Eln:Eln.SixNode:7557, Чип с исключающим ИЛИ
+Eln:Eln.SixNode:7558, Чип с обратным исключающим ИЛИ
+Eln:Eln.SixNode:7559, Чип с программируемой матричной логикой
+Eln:Eln.SixNode:7560, Чип с триггером Шмитта
+Eln:Eln.SixNode:7561, Чип с D-триггером
+Eln:Eln.SixNode:7562, Чип с осциллятором
+Eln:Eln.SixNode:7563, Чип с JK-триггером
+Eln:Eln.SixNode:7936, OpAmp
+Eln:Eln.SixNode:7937, PID Regulator
+Eln:Eln.SixNode:7938, Voltage controlled sawtooth oscillator
+Eln:Eln.SixNode:7939, Voltage controlled sine oscillator
+Eln:Eln.SixNode:7940, Amplifier
+Eln:Eln.SixNode:7941, Voltage controlled amplifier
+Eln:Eln.SixNode:7942, Configurable summing unit
+Eln:Eln.SixNode:7943, Sample and hold
+Eln:Eln.TransparentNode:6183, Большой реостат
+Eln:Eln.TransparentNode:128, DC-DC Converter
+Eln:Eln.TransparentNode:192, Каменная тепловая печь
+Eln:Eln.TransparentNode:193, Fuel Heat Furnace
+Eln:Eln.TransparentNode:257, Тепловая турбина на 50В
+Eln:Eln.TransparentNode:264, Тепловая турбина на 200В
+Eln:Eln.TransparentNode:265, Паровая турбина
+Eln:Eln.TransparentNode:266, Генератор
+Eln:Eln.TransparentNode:267, Gas Turbine
+Eln:Eln.TransparentNode:268, Joint
+Eln:Eln.TransparentNode:269, Joint hub
+Eln:Eln.TransparentNode:270, Flywheel
+Eln:Eln.TransparentNode:271, Tachometer
+Eln:Eln.TransparentNode:448, Низковольтный электропередатчик
+Eln:Eln.TransparentNode:449, Низковольтный электроприемник
+Eln:Eln.TransparentNode:450, Средневольтовый электропередатчик
+Eln:Eln.TransparentNode:451, Средневольтовый электроприемник
+Eln:Eln.TransparentNode:452, Высоковольтный электропередатчик
+Eln:Eln.TransparentNode:453, Высоковольтный электроприемник
+Eln:Eln.TransparentNode:1024, Дешевый аккумулятор
+Eln:Eln.TransparentNode:1025, Вместительный аккумулятор
+Eln:Eln.TransparentNode:1026, Высоковольтный аккумулятор
+Eln:Eln.TransparentNode:1027, Мощный аккумулятор
+Eln:Eln.TransparentNode:1028, Долговременный аккумулятор
+Eln:Eln.TransparentNode:1029, Одноразовый аккумулятор
+Eln:Eln.TransparentNode:2048, Электрическая печь
+Eln:Eln.TransparentNode:2112, Дробитель на 50В
+Eln:Eln.TransparentNode:2116, Дробитель на 200В
+Eln:Eln.TransparentNode:2240, Компрессор на 50В
+Eln:Eln.TransparentNode:2244, Компрессор на 200В
+Eln:Eln.TransparentNode:2304, Намагничиватель на 50В
+Eln:Eln.TransparentNode:2308, Намагничиватель на 200В
+Eln:Eln.TransparentNode:2368, Прокатный стан на 50В
+Eln:Eln.TransparentNode:2372, Прокатный стан на 200В
+Eln:Eln.TransparentNode:2624, Инкубатор яиц на 50В
+Eln:Eln.TransparentNode:2688, Автошахтер
+Eln:Eln.TransparentNode:3073, Небольшая солнечная батарея
+Eln:Eln.TransparentNode:3074, Небольшая настраиваемая солнечная батарея
+Eln:Eln.TransparentNode:3075, 2x3 Solar Panel
+Eln:Eln.TransparentNode:3076, 2x3 Rotating Solar Panel
+Eln:Eln.TransparentNode:3136, Ветряная турбина
+Eln:Eln.TransparentNode:3152, Гидротурбина
+Eln:Eln.TransparentNode:4096, Небольшой пассивный радиатор
+Eln:Eln.TransparentNode:4128, Небольшой активный радиатор
+Eln:Eln.TransparentNode:4130, Активный радиатор на 200В
+Eln:Eln.TransparentNode:4160, Экспериментальный транспортер
+Eln:Eln.TransparentNode:4224, Защитная турель на 800В
+Eln:Eln.TransparentNode:4289, Топливный генератор на 50В
+Eln:Eln.TransparentNode:4290, Топливный генератор на 200В
+Eln:Eln.TransparentNode:7876, Utility_Pole.name
+Eln:Eln.TransparentNode:7877, Utility_Pole_w/DC-DC_Converter.name
+Eln:Eln.Ore:1, Медная руда
+Eln:Eln.Ore:4, Свинцовая руда
+Eln:Eln.Ore:5, Вольфрамовая руда
+Eln:Eln.Ore:6, Киноварь
+Eln:eln.EnergyConverterElnToOtherLVUBlock, Конвертер электричества на 50В
+Eln:eln.EnergyConverterElnToOtherMVUBlock, Конвертер электричества на 200В
+Eln:eln.EnergyConverterElnToOtherHVUBlock, Конвертер электричества на 800В
+Eln:eln.ElnProbe, Компьютерный зонд
 EnderIO:blockStirlingGenerator, Генератор Стирлинга
 EnderIO:blockCombustionGenerator, Генератор внутреннего сгорания
 EnderIO:blockZombieGenerator, Зомби генератор
@@ -6394,6 +6556,10 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шерс�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шерстяная глина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шерстяная глина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шерстяная глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вольфрамовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Киноварь
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Укреплённый обсидиан
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.blockConduitFacade.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок наэлектризованной стали
@@ -7558,6 +7724,139 @@ chisel:diamondChisel, item.null.name
 chisel:obsidianChisel, item.null.name
 chisel:cloudinabottle, Облако в бутылке
 chisel:smashingrock, Сокрушительный камень
+Eln:eln.itemCreativeTab, item.eln:elncreativetab.name
+Eln:Eln.sharedItem:6279, Lead Fuse for low voltage cables
+Eln:Eln.sharedItem:6280, Lead Fuse for medium voltage cables
+Eln:Eln.sharedItem:6281, Lead Fuse for high voltage cables
+Eln:Eln.sharedItem:6282, Lead Fuse for very high voltage cables
+Eln:Eln.sharedItem:64, Маленький медный нагревательный элемент на 50В
+Eln:Eln.sharedItem:65, Медный нагревательный элемент на 50В
+Eln:Eln.sharedItem:66, Небольшой медный нагревательный элемент на 200В
+Eln:Eln.sharedItem:67, Медный нагревательный элемент на 200В
+Eln:Eln.sharedItem:68, Маленький железный нагревательный элемент на 50В
+Eln:Eln.sharedItem:69, Железный нагревательный элемент на 50В
+Eln:Eln.sharedItem:70, Небольшой железный нагревательный элемент на 200В
+Eln:Eln.sharedItem:71, Железный нагревательный элемент на 200В
+Eln:Eln.sharedItem:72, Небольшой вольфрамовый нагревательный элемент на 50В
+Eln:Eln.sharedItem:73, Вольфрамовый нагревательный элемент на 50В
+Eln:Eln.sharedItem:74, Небольшой вольфрамовый нагревательный элемент на 200В
+Eln:Eln.sharedItem:75, Вольфрамовый нагревательный элемент на 200В
+Eln:Eln.sharedItem:192, On/OFF Regulator 1 Percent
+Eln:Eln.sharedItem:193, On/OFF Regulator 10 Percent
+Eln:Eln.sharedItem:200, Аналогический регулятор
+Eln:Eln.sharedItem:256, Маленькая лампа накаливания на 50В
+Eln:Eln.sharedItem:257, Лампа накаливания на 50В
+Eln:Eln.sharedItem:258, Лампа накаливания на 200В
+Eln:Eln.sharedItem:260, Маленькая карбоновая лампочка на 50В
+Eln:Eln.sharedItem:261, Карбоновая лампа накаливания на 50В
+Eln:Eln.sharedItem:272, Маленькая энергосберегающая лампочка на 50В
+Eln:Eln.sharedItem:273, Энергосберегающая лампочка на 50В
+Eln:Eln.sharedItem:274, Энергосберегающая лампочка на 200В
+Eln:Eln.sharedItem:288, Фермерская лампа на 50В
+Eln:Eln.sharedItem:292, Фермерская лампа на 200В
+Eln:Eln.sharedItem:293, Светодиод на 50В
+Eln:Eln.sharedItem:294, Светодиод на 200В
+Eln:Eln.sharedItem:320, Защита от перегрева
+Eln:Eln.sharedItem:321, Защита от перенапряжения
+Eln:Eln.sharedItem:384, Камера внутреннего сгорания
+Eln:Eln.sharedItem:448, Дешевое ферромагнитное ядро
+Eln:Eln.sharedItem:449, Обычное ферромагнитное ядро
+Eln:Eln.sharedItem:450, Оптимальное ферромагнитное ядро
+Eln:Eln.sharedItem:513, Медный слиток
+Eln:Eln.sharedItem:516, Свинцовый слиток
+Eln:Eln.sharedItem:517, Вольфрамовый слиток
+Eln:Eln.sharedItem:518, Слиток феррита
+Eln:Eln.sharedItem:519, Слиток сверхсплава
+Eln:Eln.sharedItem:520, Ртуть
+Eln:Eln.sharedItem:577, Распыленная медь
+Eln:Eln.sharedItem:578, Распыленное железо
+Eln:Eln.sharedItem:5, Распыленный свинец
+Eln:Eln.sharedItem:6, Распыленный вольфрам
+Eln:Eln.sharedItem:7, Распыленное золото
+Eln:Eln.sharedItem:8, Распыленный уголь
+Eln:Eln.sharedItem:9, Распыленный сверхсплав
+Eln:Eln.sharedItem:10, Распыленная киноварь
+Eln:Eln.sharedItem:640, Электромотор
+Eln:Eln.sharedItem:641, Продвинутый электромотор
+Eln:Eln.sharedItem:704, Отслеживатель солнца
+Eln:Eln.sharedItem:896, Мультиметр
+Eln:Eln.sharedItem:897, Термометр
+Eln:Eln.sharedItem:898, Универсальный измеритель
+Eln:Eln.sharedItem:904, Анализатор беспроводных сигналов
+Eln:Eln.sharedItem:960, Дешевая насадка для бура
+Eln:Eln.sharedItem:961, Обычная насадка для бура
+Eln:Eln.sharedItem:962, Качественная насадка для бура
+Eln:Eln.sharedItem:1024, Сканер руд
+Eln:Eln.sharedItem:1088, Удлинитель шахтерского бура
+Eln:Eln.sharedItem:4096, Каучук
+Eln:Eln.sharedItem:4097, Резина
+Eln:Eln.sharedItem:4160, Медный провод
+Eln:Eln.sharedItem:4161, Железный провод
+Eln:Eln.sharedItem:4162, Вольфрамовый провод
+Eln:Eln.sharedItem:7616, Черная кисточка
+Eln:Eln.sharedItem:7617, Красная кисточка
+Eln:Eln.sharedItem:7618, Зеленая кисточка
+Eln:Eln.sharedItem:7619, Коричневая кисточка
+Eln:Eln.sharedItem:7620, Синяя кисточка
+Eln:Eln.sharedItem:7621, Фиолетовая кисточка
+Eln:Eln.sharedItem:7622, Бирюзовая кисточка
+Eln:Eln.sharedItem:7623, Серая кисточка
+Eln:Eln.sharedItem:7624, Серая кисточка
+Eln:Eln.sharedItem:7625, Розовая кисточка
+Eln:Eln.sharedItem:7626, Лаймовая кисточка
+Eln:Eln.sharedItem:7627, Желтая кисточка
+Eln:Eln.sharedItem:7628, Голубая кисточка
+Eln:Eln.sharedItem:7629, Пурпурная кисточка
+Eln:Eln.sharedItem:7630, Оранжевая кисточка
+Eln:Eln.sharedItem:7631, Белая кисточка
+Eln:Eln.sharedItem:7680, Дешевый чип
+Eln:Eln.sharedItem:7681, Продвинутая микросхема
+Eln:Eln.sharedItem:7682, Корпус механизма
+Eln:Eln.sharedItem:7683, Чип электрического зонда
+Eln:Eln.sharedItem:7684, Термосенсорный чип
+Eln:Eln.sharedItem:7686, Медная пластина
+Eln:Eln.sharedItem:7687, Железная пластина
+Eln:Eln.sharedItem:7688, Золотая пластина
+Eln:Eln.sharedItem:7689, Свинцовая пластина
+Eln:Eln.sharedItem:7690, Кремниевая пластина
+Eln:Eln.sharedItem:7691, Пластина из сверхсплава
+Eln:Eln.sharedItem:7692, Угольная пластина
+Eln:Eln.sharedItem:7696, Распыленный кремний
+Eln:Eln.sharedItem:7697, Кремниевый слиток
+Eln:Eln.sharedItem:7702, Ускоритель
+Eln:Eln.sharedItem:7703, Продвинутый корпус механизма
+Eln:Eln.sharedItem:7708, Базовый магнит
+Eln:Eln.sharedItem:7709, Улучшенный магнит
+Eln:Eln.sharedItem:7713, Сигнальная антенна
+Eln:Eln.sharedItem:7720, Фильтр игроков
+Eln:Eln.sharedItem:7721, Фильтр враждебных существ
+Eln:Eln.sharedItem:7722, Фильтр животных
+Eln:Eln.sharedItem:7728, Гаечный ключ
+Eln:Eln.sharedItem:7732, Диэлектрик
+Eln:Eln.sharedItemStackOne:7744, Маленький фонарик
+Eln:Eln.sharedItemStackOne:7752, Портативный электробур
+Eln:Eln.sharedItemStackOne:7756, Портативная электропила
+Eln:Eln.sharedItemStackOne:7808, Карманная батарейка
+Eln:Eln.sharedItemStackOne:7809, Упакованные карманные батарейки
+Eln:Eln.sharedItemStackOne:7824, Карманный конденсатор
+Eln:Eln.sharedItemStackOne:7825, Упакованные карманные конденсаторы
+Eln:Eln.sharedItemStackOne:7840, Рентген-сканер
+Eln:Eln.sharedItemStackOne:7936, Small Fuel Burner
+Eln:Eln.sharedItemStackOne:7937, Medium Fuel Burner
+Eln:Eln.sharedItemStackOne:7938, Big Fuel Burner
+Eln:Eln.Copper Helmet, Copper Helmet
+Eln:Eln.Copper Chestplate, Copper Chestplate
+Eln:Eln.Copper Leggings, Copper Leggings
+Eln:Eln.Copper Boots, Copper Boots
+Eln:Eln.E-Coal Helmet, E-Coal Helmet
+Eln:Eln.E-Coal Chestplate, E-Coal Chestplate
+Eln:Eln.E-Coal Leggings, E-Coal Leggings
+Eln:Eln.E-Coal Boots, E-Coal Boots
+Eln:Eln.Copper Sword, Copper Sword
+Eln:Eln.Copper Hoe, Copper Hoe
+Eln:Eln.Copper Shovel, Copper Shovel
+Eln:Eln.Copper Pickaxe, Copper Pickaxe
+Eln:Eln.Copper Axe, Copper Axe
 EnderIO:itemCoordSelector, Настройщик координат
 EnderIO:itemFusedQuartzFrame, Рамка из расплавленного кварца
 EnderIO:itemConduitFacade:0, Фасад для труб
