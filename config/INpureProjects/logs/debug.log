@@ -7,6 +7,7 @@ Setting up NEI Library...
 Setting up CreativeTab library...
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
+Found creative tab: bottledanimals
 Found creative tab: buildcraft.main
 Found creative tab: buildcraft.pipes
 Found creative tab: buildcraft.facades
@@ -97,12 +98,12 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ProjRed|Illumination:projectred.illumination.lamp_27
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ProjRed|Illumination:projectred.illumination.lamp_27
+getRandomMaterial called. Returned: Railcraft:brick.abyssal_2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Railcraft:brick.abyssal_2
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 1956
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 265
+getFacadesSize called. Returned: 1957
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 343
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -239,7 +240,7 @@ Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
 getNumberOfTypes called. Returned: 1373
-override called. Params: appliedenergistics2, item.ItemFacade, 232
+override called. Params: appliedenergistics2, item.ItemFacade, 939
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
