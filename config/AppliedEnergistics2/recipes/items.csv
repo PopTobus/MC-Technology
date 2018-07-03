@@ -10938,6 +10938,77 @@ SGCraft:sgChevronUpgrade, Stargate Chevron Upgrade
 SGCraft:sgIrisUpgrade, Stargate Iris Upgrade
 SGCraft:sgIrisBlade, Stargate Iris Blade
 SGCraft:ic2Capacitor, Ridiculously Large Capacitor
+stefinusguns:P90:0, P90
+stefinusguns:P90:1, P90
+stefinusguns:P90:2, P90
+stefinusguns:P90:3, P90
+stefinusguns:P90:4, P90
+stefinusguns:P90:5, P90
+stefinusguns:P90 Clip, 5,7x28mm Magazine
+stefinusguns:MP7:0, MP7
+stefinusguns:MP7:1, MP7
+stefinusguns:MP7:2, MP7
+stefinusguns:MP7:3, MP7
+stefinusguns:MP7:4, MP7
+stefinusguns:MP7:5, MP7
+stefinusguns:MP7Ammo, HK 4.6×30mm Magazine
+stefinusguns:Galil:0, Galil
+stefinusguns:Galil:1, Galil
+stefinusguns:Galil:2, Galil
+stefinusguns:Galil:3, Galil
+stefinusguns:Galil:4, Galil
+stefinusguns:Galil:5, Galil
+stefinusguns:GalilAmmo, 7,62x39mm Magazine
+stefinusguns:ScarH:0, ScarH
+stefinusguns:ScarH:1, ScarH
+stefinusguns:ScarH:2, ScarH
+stefinusguns:ScarH:3, ScarH
+stefinusguns:ScarH:4, ScarH
+stefinusguns:ScarH:5, ScarH
+stefinusguns:ScarHAmmo, 7.62x51mm x30 NATO Magazine
+stefinusguns:M14:0, M14 DMR
+stefinusguns:M14:1, M14 DMR
+stefinusguns:FRF2:0, FR F2
+stefinusguns:FRF2:1, FR F2
+stefinusguns:M14Ammo, 7.62x51mm x10 NATO Magazine
+stefinusguns:Minime:0, Minimi
+stefinusguns:Minime:1, Minimi
+stefinusguns:Minime:2, Minimi
+stefinusguns:Minime:3, Minimi
+stefinusguns:Minime:4, Minimi
+stefinusguns:Minime:5, Minimi
+stefinusguns:MinimeAmmo, 5.56x45mm NATO
+stefinusguns:M60:0, M60
+stefinusguns:M60:1, M60
+stefinusguns:M60:2, M60
+stefinusguns:M60:3, M60
+stefinusguns:M60:4, M60
+stefinusguns:M60:5, M60
+stefinusguns:M60Ammo, 7.62x51mm x100 NATO Magazine
+stefinusguns:M1911:0, Glock 17
+stefinusguns:M1911:1, Glock 17
+stefinusguns:M1911:2, Glock 17
+stefinusguns:M1911:3, Glock 17
+stefinusguns:M1911Ammo, 9x19mm Parrabellum
+stefinusguns:RemingtonM47:0, Remington M47
+stefinusguns:M1014:0, M1014
+stefinusguns:Shotgunshell, 12ga Shotgun Shell Pack
+stefinusguns:RPG:0, RPG
+stefinusguns:RPGAmmo, RPG Rocket
+stefinusguns:Scope, Scope
+stefinusguns:Reflex, Reflex Sight
+stefinusguns:Holo, Holographic Sight
+stefinusguns:Silencer, Silencer
+stefinusguns:Barrel, Barrel
+stefinusguns:HeavyBarrel, Heavy Barrel
+stefinusguns:WStock, Wooden Stock
+stefinusguns:BMStock, Metal Stock
+stefinusguns:SStock, Square Stock
+stefinusguns:Reciever, Receiver
+stefinusguns:WGrip, Wooden Grip
+stefinusguns:MGrip, Metal Grip
+stefinusguns:RLBarrel, Rocket Launcher Barrel
+stefinusguns:RLBack, Rocket Launcher Back
 ForgeMicroblock:sawStone, Каменная пила
 ForgeMicroblock:sawIron, Железная пила
 ForgeMicroblock:sawDiamond, Алмазная пила
