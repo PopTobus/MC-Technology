@@ -13835,6 +13835,82 @@ IronChest:BlockIronChest:5, Кристальный сундук
 IronChest:BlockIronChest:6, Обсидиановый сундук
 IronChest:BlockIronChest:7, DirtChest 9000!
 JABBA:barrel, Better Barrel
+rivalrebels:rivalrebelsblock0, tile.rivalrebels.blocks.0.name
+rivalrebels:rivalrebelsblock1, tile.rivalrebels.blocks.1.name
+rivalrebels:rivalrebelsblock2, tile.rivalrebels.blocks.2.name
+rivalrebels:rivalrebelsblock3, tile.rivalrebels.blocks.3.name
+rivalrebels:rivalrebelsblock4, tile.rivalrebels.blocks.4.name
+rivalrebels:rivalrebelsblock5, tile.rivalrebels.blocks.5.name
+rivalrebels:rivalrebelsblock6, tile.rivalrebels.blocks.11.name
+rivalrebels:rivalrebelsblock7, tile.rivalrebels.blocks.12.name
+rivalrebels:rivalrebelsblock8, tile.rivalrebels.blocks.13.name
+rivalrebels:rivalrebelsblock9, tile.rivalrebels.blocks.14.name
+rivalrebels:rivalrebelsblock10, tile.rivalrebels.blocks.15.name
+rivalrebels:rivalrebelsblock11, tile.rivalrebels.blocks.16.name
+rivalrebels:rivalrebelsblock12, tile.rivalrebels.blocks.17.name
+rivalrebels:rivalrebelsblock13, tile.rivalrebels.blocks.18.name
+rivalrebels:rivalrebelsblock14, tile.rivalrebels.blocks.19.name
+rivalrebels:rivalrebelsblock15, tile.rivalrebels.blocks.20.name
+rivalrebels:rivalrebelsblock16, tile.rivalrebels.blocks.21.name
+rivalrebels:rivalrebelsblock17, tile.rivalrebels.blocks.22.name
+rivalrebels:rivalrebelsblock18, tile.rivalrebels.blocks.23.name
+rivalrebels:rivalrebelsblock19, tile.rivalrebels.block.6.name
+rivalrebels:rivalrebelsblock20, tile.rivalrebels.blocks.7.name
+rivalrebels:rivalrebelsblock21, tile.rivalrebels.blocks.8.name
+rivalrebels:rivalrebelsblock22, tile.rivalrebels.blocks.9.name
+rivalrebels:rivalrebelsblock23, tile.rivalrebels.blocks.10.name
+rivalrebels:rivalrebelsblock24, tile.rivalrebels.blocks.24.name
+rivalrebels:rivalrebelsblock25, tile.rivalrebels.blocks.25.name
+rivalrebels:rivalrebelsblock26, tile.rivalrebels.blocks.26.name
+rivalrebels:rivalrebelsblock27, tile.rivalrebels.blocks.27.name
+rivalrebels:rivalrebelsblock28, tile.rivalrebels.blocks.28.name
+rivalrebels:rivalrebelsblock29, tile.rivalrebels.blocks.29.name
+rivalrebels:rivalrebelsblock30, tile.rivalrebels.blocks.30.name
+rivalrebels:rivalrebelsblock31, tile.rivalrebels.blocks.31.name
+rivalrebels:rivalrebelsblock32, tile.rivalrebels.blocks.32.name
+rivalrebels:rivalrebelsblock33, tile.rivalrebels.blocks.33.name
+rivalrebels:rivalrebelsblock34, tile.rivalrebels.blocks.34.name
+rivalrebels:rivalrebelsblock35, tile.rivalrebels.blocks.35.name
+rivalrebels:rivalrebelsblock36, tile.rivalrebels.blocks.36.name
+rivalrebels:rivalrebelsblock37, tile.rivalrebels.blocks.37.name
+rivalrebels:rivalrebelsblock38, tile.rivalrebels.blocks.39.name
+rivalrebels:rivalrebelsblock39, tile.rivalrebels.blocks.38.name
+rivalrebels:rivalrebelsblock40, tile.rivalrebels.blocks.40.name
+rivalrebels:rivalrebelsblock41, tile.rivalrebels.blocks.41.name
+rivalrebels:rivalrebelsblock42, tile.rivalrebels.blocks.42.name
+rivalrebels:rivalrebelsblock43, tile.rivalrebels.blocks.43.name
+rivalrebels:rivalrebelsblock44, tile.rivalrebels.blocks.44.name
+rivalrebels:rivalrebelsblock45, tile.rivalrebels.blocks.45.name
+rivalrebels:rivalrebelsblock46, tile.rivalrebels.blocks.46.name
+rivalrebels:rivalrebelsblock47, tile.rivalrebels.blocks.47.name
+rivalrebels:rivalrebelsblock48, tile.rivalrebels.blocks.48.name
+rivalrebels:rivalrebelsblock49, tile.rivalrebels.blocks.49.name
+rivalrebels:rivalrebelsblock50, tile.rivalrebels.blocks.50.name
+rivalrebels:rivalrebelsblock51, tile.rivalrebels.blocks.51.name
+rivalrebels:rivalrebelsblock52, tile.rivalrebels.blocks.52.name
+rivalrebels:rivalrebelsblock53, tile.rivalrebels.blocks.53.name
+rivalrebels:rivalrebelsblock54, tile.rivalrebels.blocks.54.name
+rivalrebels:rivalrebelsblock55, tile.rivalrebels.blocks.55.name
+rivalrebels:rivalrebelsblock56, tile.rivalrebels.blocks.56.name
+rivalrebels:rivalrebelsblock57, tile.rivalrebels.blocks.57.name
+rivalrebels:rivalrebelsblock58, tile.rivalrebels.blocks.58.name
+rivalrebels:rivalrebelsblock59, tile.rivalrebels.blocks.59.name
+rivalrebels:rivalrebelsblock60, tile.rivalrebels.blocks.60.name
+rivalrebels:rivalrebelsblock61, tile.rivalrebels.blocks.61.name
+rivalrebels:rivalrebelsblock62, tile.rivalrebels.blocks.63.name
+rivalrebels:rivalrebelsblock63, tile.rivalrebels.blocks.72.name
+rivalrebels:rivalrebelsblock64, tile.rivalrebels.blocks.64.name
+rivalrebels:rivalrebelsblock65, tile.rivalrebels.blocks.65.name
+rivalrebels:rivalrebelsblock66, tile.rivalrebels.blocks.66.name
+rivalrebels:rivalrebelsblock67, tile.rivalrebels.blocks.67.name
+rivalrebels:rivalrebelsblock68, tile.rivalrebels.blocks.68.name
+rivalrebels:rivalrebelsblock69, tile.rivalrebels.blocks.69.name
+rivalrebels:rivalrebelsblock70, tile.rivalrebels.blocks.70.name
+rivalrebels:rivalrebelsblock71, tile.rivalrebels.blocks.71.name
+rivalrebels:rivalrebelsblock72, tile.rivalrebels.blocks.73.name
+rivalrebels:rivalrebelsblock73, tile.rivalrebels.blocks.74.name
+rivalrebels:rivalrebelsblock74, tile.rivalrebels.blocks.75.name
+rivalrebels:rivalrebelsblock75, tile.rivalrebels.blocks.76.name
 SGCraft:stargateRing:0, Stargate Ring Block
 SGCraft:stargateRing:1, Stargate Chevron Block
 SGCraft:stargateBase, Stargate Base
@@ -15970,6 +16046,46 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кино�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Окаймлённый кварц
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эндер-металлический сплав
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стабилизатор межпространственного моста (Пустой)
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.0.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.2.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.3.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.4.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.5.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.18.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.19.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.20.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.21.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.22.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.23.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.block.6.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.7.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.8.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.9.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.24.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.25.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.26.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.27.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.28.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.29.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.30.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.33.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.35.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.39.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.42.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.43.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.44.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.48.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.49.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.55.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.56.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.57.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.58.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.59.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.64.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.67.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.68.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.69.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.73.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Naquadah Alloy Block
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Naquadah Ore
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Простой блок
@@ -21113,6 +21229,78 @@ JABBA:hammer:5, Бочкообразный молот (Структурный)
 JABBA:hammer:6, Бочкообразный молот (Пустотный)
 JABBA:hammer:7, Бочкообразный молот (Творческий)
 JABBA:tuningFork, Пространственный камертон
+rivalrebels:rivalrebelsitem0, item.rivalrebelsitem0.name
+rivalrebels:rivalrebelsitem1, item.rivalrebelsitem1.name
+rivalrebels:rivalrebelsitem2, item.rivalrebelsitem2.name
+rivalrebels:rivalrebelsitem3, item.rivalrebelsitem3.name
+rivalrebels:rivalrebelsitem4, item.rivalrebelsitem4.name
+rivalrebels:rivalrebelsitem5, item.rivalrebelsitem5.name
+rivalrebels:rivalrebelsitem6, item.rivalrebelsitem6.name
+rivalrebels:rivalrebelsitem7, item.rivalrebelsitem7.name
+rivalrebels:rivalrebelsitem8, item.rivalrebelsitem8.name
+rivalrebels:rivalrebelsitem9, item.rivalrebelsitem9.name
+rivalrebels:rivalrebelsitem10, item.rivalrebelsitem10.name
+rivalrebels:rivalrebelsitem11, item.rivalrebelsitem11.name
+rivalrebels:rivalrebelsitem12, item.rivalrebelsitem12.name
+rivalrebels:rivalrebelsitem13, item.rivalrebelsitem13.name
+rivalrebels:rivalrebelsitem14, item.rivalrebelsitem14.name
+rivalrebels:rivalrebelsitem15, item.rivalrebelsitem15.name
+rivalrebels:rivalrebelsitem16, item.rivalrebelsitem16.name
+rivalrebels:rivalrebelsitem17, item.rivalrebelsitem17.name
+rivalrebels:rivalrebelsitem18, item.rivalrebelsitem18.name
+rivalrebels:rivalrebelsitem19, item.rivalrebelsitem19.name
+rivalrebels:rivalrebelsitem20, item.rivalrebelsitem20.name
+rivalrebels:rivalrebelsitem21, item.rivalrebelsitem21.name
+rivalrebels:rivalrebelsitem22, item.rivalrebelsitem25.name
+rivalrebels:rivalrebelsitem23, item.rivalrebelsitem22.name
+rivalrebels:rivalrebelsitem24, item.rivalrebelsitem23.name
+rivalrebels:rivalrebelsitem25, item.rivalrebelsitem24.name
+rivalrebels:rivalrebelsitem26, item.rivalrebelsitem26.name
+rivalrebels:rivalrebelsitem27, item.rivalrebelsitems27.name
+rivalrebels:rivalrebelsitem28, item.rivalrebelsitems28.name
+rivalrebels:rivalrebelsitem29, item.rivalrebelsitems29.name
+rivalrebels:rivalrebelsitem30, item.rivalrebelsitems30.name
+rivalrebels:rivalrebelsitem31, item.rivalrebelsitem31.name
+rivalrebels:rivalrebelsarmor0, item.rivalrebelsarmor0.name
+rivalrebels:rivalrebelsarmor1, item.rivalrebelsarmor1.name
+rivalrebels:rivalrebelsarmor2, item.rivalrebelsarmor2.name
+rivalrebels:rivalrebelsarmor3, item.rivalrebelsarmor3.name
+rivalrebels:rivalrebelsarmor4, item.rivalrebelsarmor4.name
+rivalrebels:rivalrebelsarmor5, item.rivalrebelsarmor5.name
+rivalrebels:rivalrebelsarmor6, item.rivalrebelsarmor6.name
+rivalrebels:rivalrebelsarmor7, item.rivalrebelsarmor7.name
+rivalrebels:rivalrebelsarmor8, item.rivalrebelsarmor8.name
+rivalrebels:rivalrebelsarmor9, item.rivalrebelsarmor9.name
+rivalrebels:rivalrebelsarmor10, item.rivalrebelsarmor10.name
+rivalrebels:rivalrebelsarmor11, item.rivalrebelsarmor11.name
+rivalrebels:rivalrebelsarmor12, item.rivalrebelsarmor12.name
+rivalrebels:rivalrebelsarmor13, item.rivalrebelsarmor13.name
+rivalrebels:rivalrebelsarmor14, item.rivalrebelsarmor14.name
+rivalrebels:rivalrebelsarmor15, item.rivalrebelsarmor15.name
+rivalrebels:rivalrebelsarmor16, item.rivalrebelsarmor16.name
+rivalrebels:rivalrebelsarmor17, item.rivalrebelsarmor17.name
+rivalrebels:rivalrebelsarmor18, item.rivalrebelsarmor18.name
+rivalrebels:rivalrebelsarmor19, item.rivalrebelsarmor19.name
+rivalrebels:rivalrebelsarmor20, item.rivalrebelsarmor20.name
+rivalrebels:rivalrebelsarmor21, item.rivalrebelsarmor21.name
+rivalrebels:rivalrebelsarmor22, item.rivalrebelsarmor22.name
+rivalrebels:rivalrebelsarmor23, item.rivalrebelsarmor23.name
+rivalrebels:rivalrebelsarmor24, item.rivalrebelsarmor24.name
+rivalrebels:rivalrebelsarmor25, item.rivalrebelsarmor25.name
+rivalrebels:rivalrebelsarmor26, item.rivalrebelsarmor26.name
+rivalrebels:rivalrebelsarmor27, item.rivalrebelsarmor27.name
+rivalrebels:rivalrebelsarmor28, item.rivalrebelsarmor28.name
+rivalrebels:rivalrebelsarmor29, item.rivalrebelsarmor29.name
+rivalrebels:rivalrebelsarmor30, item.rivalrebelsarmor30.name
+rivalrebels:rivalrebelsarmor31, item.rivalrebelsarmor31.name
+rivalrebels:rivalrebelsarmor32, item.rivalrebelsarmor32.name
+rivalrebels:rivalrebelsarmor33, item.rivalrebelsarmor33.name
+rivalrebels:rivalrebelsarmor34, item.rivalrebelsarmor34.name
+rivalrebels:rivalrebelsarmor35, item.rivalrebelsarmor35.name
+rivalrebels:rivalrebelsarmor36, item.rivalrebelsarmor36.name
+rivalrebels:rivalrebelsarmor37, item.rivalrebelsarmor37.name
+rivalrebels:rivalrebelsarmor38, item.rivalrebelsarmor38.name
+rivalrebels:rivalrebelsarmor39, item.rivalrebelsarmor39.name
 SGCraft:naquadah, Naquadah
 SGCraft:naquadahIngot, Naquadah Alloy Ingot
 SGCraft:sgCoreCrystal, Stargate Core Crystal
