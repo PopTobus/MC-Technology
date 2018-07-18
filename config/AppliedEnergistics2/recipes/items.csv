@@ -348,6 +348,13 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+atomicscience:uranium_ore, Uranium Ore
+atomicscience:reactor_cell, Fission Reactor Core
+atomicscience:steam_funnel, Steam Funnel
+atomicscience:steam_turbine, Steam Turbine
+atomicscience:chem_extractor, Chemical Extractor
+atomicscience:chem_boiler, Chemical Boiler
+atomicscience:chem_centrifuge, Chemical Centrifuge
 BiblioCraft:tile.BiblioFramedChest:0, Каркасный сундук
 BiblioCraft:BiblioPaneler:0, Дубовый мебельный панельщик
 BiblioCraft:BiblioPaneler:1, Еловый мебельный панельщик
@@ -439,49 +446,6 @@ BiblioCraft:BiblioFancySign:3, Красивая табличка из тропи
 BiblioCraft:BiblioFancySign:4, Красивая табличка из акации
 BiblioCraft:BiblioFancySign:5, Красивая табличка из тёмного дуба
 BiblioCraft:BiblioFancySign:6, Каркасная красивая табличка
-BiblioCraft:BiblioWorkbench:0, Дубовый красивый верстак
-BiblioCraft:BiblioWorkbench:1, Еловый красивый верстак
-BiblioCraft:BiblioWorkbench:2, Берёзовый красивый верстак
-BiblioCraft:BiblioWorkbench:3, Красивый верстак из тропического дерева
-BiblioCraft:BiblioWorkbench:4, Красивый верстак из акации
-BiblioCraft:BiblioWorkbench:5, Красивый верстак из тёмного дуба
-BiblioCraft:BiblioWorkbench:6, Каркасный красивый верстак
-BiblioCraft:BiblioBell, Настольный звонок
-BiblioCraft:Bibliotheca:0, Дубовый книжный шкаф
-BiblioCraft:Bibliotheca:1, Еловый книжный шкаф
-BiblioCraft:Bibliotheca:2, Берёзовый книжный шкаф
-BiblioCraft:Bibliotheca:3, Книжный шкаф из тропического дерева
-BiblioCraft:Bibliotheca:4, Книжный шкаф из акации
-BiblioCraft:Bibliotheca:5, Книжный шкаф из тёмного дуба
-BiblioCraft:Bibliotheca:6, Каркасный книжный шкаф
-BiblioCraft:BookcaseFilled:0, Дубовый книжный шкаф
-BiblioCraft:BookcaseFilled:1, Еловый книжный шкаф
-BiblioCraft:BookcaseFilled:2, Берёзовый книжный шкаф
-BiblioCraft:BookcaseFilled:3, Книжный шкаф из тропического дерева
-BiblioCraft:BookcaseFilled:4, Книжный шкаф из акации
-BiblioCraft:BookcaseFilled:5, Книжный шкаф из тёмного дуба
-BiblioCraft:BookcaseFilled:6, Каркасный книжный шкаф
-BiblioCraft:BiblioPotionShelf:0, Дубовая полка для зелий
-BiblioCraft:BiblioPotionShelf:1, Еловая полка для зелий
-BiblioCraft:BiblioPotionShelf:2, Берёзовая полка для зелий
-BiblioCraft:BiblioPotionShelf:3, Полка для зелий из тропического дерева
-BiblioCraft:BiblioPotionShelf:4, Полка для зелий из акации
-BiblioCraft:BiblioPotionShelf:5, Полка для зелий из тёмного дуба
-BiblioCraft:BiblioPotionShelf:6, Каркасная полка для зелий
-BiblioCraft:BiblioShelf:0, Дубовая полка
-BiblioCraft:BiblioShelf:1, Еловая полка
-BiblioCraft:BiblioShelf:2, Берёзовая полка
-BiblioCraft:BiblioShelf:3, Полка из тропического дерева
-BiblioCraft:BiblioShelf:4, Полка из акации
-BiblioCraft:BiblioShelf:5, Полка из тёмного дуба
-BiblioCraft:BiblioShelf:6, Каркасная полка
-BiblioCraft:BiblioRack:0, Дубовый стеллаж для инструментов
-BiblioCraft:BiblioRack:1, Еловый стеллаж для инструментов
-BiblioCraft:BiblioRack:2, Берёзовый стеллаж для инструментов
-BiblioCraft:BiblioRack:3, Стеллаж для инструментов из тропического дерева
-BiblioCraft:BiblioRack:4, Стеллаж для инструментов из акации
-BiblioCraft:BiblioRack:5, Стеллаж для инструментов из тёмного дуба
-BiblioCraft:BiblioRack:6, Каркасный стеллаж для инструментов
 minecraft:iron_shovel, Железная лопата
 minecraft:iron_pickaxe, Железная кирка
 minecraft:iron_axe, Железный топор
@@ -739,6 +703,49 @@ minecraft:netherbrick, Адский кирпич
 minecraft:quartz, Кварц
 minecraft:tnt_minecart, Вагонетка с динамитом
 minecraft:hopper_minecart, Вагонетка с воронкой
+BiblioCraft:BiblioWorkbench:0, Дубовый красивый верстак
+BiblioCraft:BiblioWorkbench:1, Еловый красивый верстак
+BiblioCraft:BiblioWorkbench:2, Берёзовый красивый верстак
+BiblioCraft:BiblioWorkbench:3, Красивый верстак из тропического дерева
+BiblioCraft:BiblioWorkbench:4, Красивый верстак из акации
+BiblioCraft:BiblioWorkbench:5, Красивый верстак из тёмного дуба
+BiblioCraft:BiblioWorkbench:6, Каркасный красивый верстак
+BiblioCraft:BiblioBell, Настольный звонок
+BiblioCraft:Bibliotheca:0, Дубовый книжный шкаф
+BiblioCraft:Bibliotheca:1, Еловый книжный шкаф
+BiblioCraft:Bibliotheca:2, Берёзовый книжный шкаф
+BiblioCraft:Bibliotheca:3, Книжный шкаф из тропического дерева
+BiblioCraft:Bibliotheca:4, Книжный шкаф из акации
+BiblioCraft:Bibliotheca:5, Книжный шкаф из тёмного дуба
+BiblioCraft:Bibliotheca:6, Каркасный книжный шкаф
+BiblioCraft:BookcaseFilled:0, Дубовый книжный шкаф
+BiblioCraft:BookcaseFilled:1, Еловый книжный шкаф
+BiblioCraft:BookcaseFilled:2, Берёзовый книжный шкаф
+BiblioCraft:BookcaseFilled:3, Книжный шкаф из тропического дерева
+BiblioCraft:BookcaseFilled:4, Книжный шкаф из акации
+BiblioCraft:BookcaseFilled:5, Книжный шкаф из тёмного дуба
+BiblioCraft:BookcaseFilled:6, Каркасный книжный шкаф
+BiblioCraft:BiblioPotionShelf:0, Дубовая полка для зелий
+BiblioCraft:BiblioPotionShelf:1, Еловая полка для зелий
+BiblioCraft:BiblioPotionShelf:2, Берёзовая полка для зелий
+BiblioCraft:BiblioPotionShelf:3, Полка для зелий из тропического дерева
+BiblioCraft:BiblioPotionShelf:4, Полка для зелий из акации
+BiblioCraft:BiblioPotionShelf:5, Полка для зелий из тёмного дуба
+BiblioCraft:BiblioPotionShelf:6, Каркасная полка для зелий
+BiblioCraft:BiblioShelf:0, Дубовая полка
+BiblioCraft:BiblioShelf:1, Еловая полка
+BiblioCraft:BiblioShelf:2, Берёзовая полка
+BiblioCraft:BiblioShelf:3, Полка из тропического дерева
+BiblioCraft:BiblioShelf:4, Полка из акации
+BiblioCraft:BiblioShelf:5, Полка из тёмного дуба
+BiblioCraft:BiblioShelf:6, Каркасная полка
+BiblioCraft:BiblioRack:0, Дубовый стеллаж для инструментов
+BiblioCraft:BiblioRack:1, Еловый стеллаж для инструментов
+BiblioCraft:BiblioRack:2, Берёзовый стеллаж для инструментов
+BiblioCraft:BiblioRack:3, Стеллаж для инструментов из тропического дерева
+BiblioCraft:BiblioRack:4, Стеллаж для инструментов из акации
+BiblioCraft:BiblioRack:5, Стеллаж для инструментов из тёмного дуба
+BiblioCraft:BiblioRack:6, Каркасный стеллаж для инструментов
 BiblioCraft:BiblioCase:0, Дубовая витрина
 BiblioCraft:BiblioCase:1, Еловая витрина
 BiblioCraft:BiblioCase:2, Берёзовая витрина
@@ -746,6 +753,12 @@ BiblioCraft:BiblioCase:3, Витрина из тропического дере�
 BiblioCraft:BiblioCase:4, Витрина из акации
 BiblioCraft:BiblioCase:5, Витрина из тёмного дуба
 BiblioCraft:BiblioCase:6, Каркасная витрина
+minecraft:iron_horse_armor, Железная конская броня
+minecraft:golden_horse_armor, Золотая конская броня
+minecraft:diamond_horse_armor, Алмазная конская броня
+minecraft:lead, Поводок
+minecraft:name_tag, Бирка
+minecraft:command_block_minecart, Вагонетка с командным блоком
 BiblioCraft:BiblioLabel:0, Дубовая бирка
 BiblioCraft:BiblioLabel:1, Еловая бирка
 BiblioCraft:BiblioLabel:2, Берёзовая бирка
@@ -786,12 +799,6 @@ BiblioCraft:BiblioLantern:12, Золотой фонарь
 BiblioCraft:BiblioLantern:13, Золотой фонарь
 BiblioCraft:BiblioLantern:14, Золотой фонарь
 BiblioCraft:BiblioLantern:15, Золотой фонарь
-minecraft:iron_horse_armor, Железная конская броня
-minecraft:golden_horse_armor, Золотая конская броня
-minecraft:diamond_horse_armor, Алмазная конская броня
-minecraft:lead, Поводок
-minecraft:name_tag, Бирка
-minecraft:command_block_minecart, Вагонетка с командным блоком
 BiblioCraft:BiblioIronLantern:0, Золотой фонарь
 BiblioCraft:BiblioIronLantern:1, Золотой фонарь
 BiblioCraft:BiblioIronLantern:2, Золотой фонарь
@@ -14596,6 +14603,7 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Fluix Sla
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Uranium Ore
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - ic2.blockOreCopper
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - ic2.blockOreTin
@@ -16375,6 +16383,22 @@ appliedenergistics2:item.ItemMultiPart:220, МЭ шина хранения
 appliedenergistics2:item.ItemMultiPart:400, МЭ монитор хранения
 appliedenergistics2:item.ItemMultiPart:380, МЭ терминал
 appliedenergistics2:item.ItemMultiPart:80, МЭ шина переключения
+atomicscience:hazmat_helm, Hazmat Mask
+atomicscience:hazmat_chest, Hazmat Upper body
+atomicscience:hazmat_legs, Hazmat Lower Body
+atomicscience:hazmat_boots, Hazmat Boots
+atomicscience:fluid_cell, Fluid Cell
+atomicscience:powered_cell, Powered Cell
+atomicscience:fissile_fuel_cell, Fission Fuel Rod
+atomicscience:breeder_fuel_cell, Fission Breeder Rod
+atomicscience:cell_empty, Empty Cell
+atomicscience:yellow_cake, Yellow Cake
+atomicscience:uranium_235, Uranium 235
+atomicscience:uranium_238, Uranium 238
+atomicscience:processing_waste, Toxic Mineral Waste
+atomicscience:toxic_waste, Toxic Waste
+atomicscience:heat_probe, Thermal Probe
+atomicscience:wrench, Adjuster
 BiblioCraft:item.StockroomCatalog, Складской каталог
 BiblioCraft:item.PlumbLine, Отвес
 BiblioCraft:item.FramingSaw, Пила
