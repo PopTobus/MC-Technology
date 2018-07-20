@@ -15,12 +15,12 @@ potionHealing.add(<minecraft:potion:8197>);
 potionHealing.add(<minecraft:potion:8261>);
 potionHealing.add(<minecraft:potion:8229>);
 
-recipes.remove(<minecraft:ender_chest>);
+/*recipes.remove(<minecraft:ender_chest>);
 NEI.hide(<minecraft:ender_chest>);
 recipes.remove(<minecraft:potion:*>);
 NEI.hide(<minecraft:potion:*>);
 recipes.remove(<minecraft:brewing_stand>);
-NEI.hide(<minecraft:brewing_stand>);
+NEI.hide(<minecraft:brewing_stand>);*/
 
 recipes.remove(<minecraft:repeater>);
 recipes.remove(<minecraft:comparator>);
