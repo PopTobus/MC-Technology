@@ -1,5 +1,5 @@
 // by Stratos
-
+// Removing Loot
 // iridium
 vanilla.loot.removeChestLoot("strongholdCorridor", <IC2:itemOreIridium>);
 vanilla.loot.removeChestLoot("pyramidJungleChest", <IC2:itemShardIridium>);
