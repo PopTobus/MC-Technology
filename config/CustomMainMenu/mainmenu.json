@@ -120,7 +120,7 @@
             "action" :
 			{
 				"type" : "openLink",
-				"link" : "http://sapientmail.wixsite.com/minecraft"
+				"link" : "http://google.com"
 			}
 		},
 		
@@ -136,7 +136,7 @@
             "action" :
 			{
 				"type" : "openLink",
-				"link" : "https://vk.com/ideal_industrial"
+				"link" : "http://google.com"
 			}
 		},
 		
@@ -152,7 +152,7 @@
             "action" :
 			{
 				"type" : "openLink",
-				"link" : "https://discord.gg/gpJwCnz"
+				"link" : "http://google.com"
 			}
 		},
 		
@@ -168,7 +168,7 @@
             "action" :
 			{
 				"type" : "openLink",
-				"link" : "https://www.youtube.com/playlist?list=PLkCDxo2DPJcNhXNsp3srNzkR3PdkIr9t7"
+				"link" : "http://google.com"
 			}
 		}
     },
