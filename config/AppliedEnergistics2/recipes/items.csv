@@ -13842,6 +13842,18 @@ IronChest:BlockIronChest:5, Кристальный сундук
 IronChest:BlockIronChest:6, Обсидиановый сундук
 IronChest:BlockIronChest:7, DirtChest 9000!
 JABBA:barrel, Better Barrel
+Mystcraft:BlockInkMixer, Смеситель чернил
+Mystcraft:BlockBookBinder, Переплётный стол
+Mystcraft:BlockBookReceptacle, Слот для книги
+Mystcraft:BlockBookstand, Стойка для книги
+Mystcraft:BlockLectern, Наклонная подставка для книги
+Mystcraft:BlockDecay:0, Чёрная нестабильность
+Mystcraft:BlockLinkModifier, Модификатор связи
+Mystcraft:BlockCrystal, Кристалл
+Mystcraft:LinkPortal, Связующий портал
+Mystcraft:WritingDesk, Письменный стол
+Mystcraft:BlockStarFissure, Звёздная трещина
+Mystcraft:BlockFluidMyst, tile.myst.fluid.name
 PowerUtils:BlockMain:0, Power Converter
 rivalrebels:rivalrebelsblock0, tile.rivalrebels.blocks.0.name
 rivalrebels:rivalrebelsblock1, tile.rivalrebels.blocks.1.name
@@ -16055,6 +16067,8 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кино�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Окаймлённый кварц
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эндер-металлический сплав
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стабилизатор межпространственного моста (Пустой)
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрная нестабильность
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кристалл
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.0.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.2.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.rivalrebels.blocks.3.name
@@ -21254,6 +21268,17 @@ JABBA:hammer:5, Бочкообразный молот (Структурный)
 JABBA:hammer:6, Бочкообразный молот (Пустотный)
 JABBA:hammer:7, Бочкообразный молот (Творческий)
 JABBA:tuningFork, Пространственный камертон
+Mystcraft:page:0, Чистая страница
+Mystcraft:agebook, Описывающая книга
+Mystcraft:linkbook, Связующая книга
+Mystcraft:unlinkedbook, Не связанная связующая книга
+Mystcraft:booster, Запечатанный блокнот
+Mystcraft:folder, Папка сопоставления
+Mystcraft:portfolio, Портфолио символов
+Mystcraft:writingdesk:0, Письменный стол
+Mystcraft:writingdesk:1, Доска письменного стола
+Mystcraft:vial, Чернильный флакон
+Mystcraft:glasses, Очки разработчика XComp
 PowerUtils:pu_storage_module:0, Module IC
 PowerUtils:pu_storage_module:1, Module TE
 PowerUtils:pu_storage_module:2, Module BC
