@@ -13959,7 +13959,7 @@ extracells:vibrantchamberfluid, Жидкостная вибрационная к
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
+ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -14448,6 +14448,7 @@ SGCraft:naquadahBlock, Naquadah Alloy Block
 SGCraft:naquadahOre, Naquadah Ore
 SGCraft:ic2PowerUnit, IC2 Stargate Power Unit
 SGCraft:ocInterface, OpenComputers Stargate Interface
+Trajectory:moving, tile.moving.name
 WarpDrive:blockChunkLoader, Загрузчик чанков
 WarpDrive:blockLaser, Лазер
 WarpDrive:blockLaserMedium, Лазерный излучатель (Ускоритель частиц)
