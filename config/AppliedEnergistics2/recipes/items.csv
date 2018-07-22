@@ -13636,6 +13636,143 @@ computronics:computronics.digitalControllerBox, Цифровой контрол�
 computronics:computronics.detector, Детектор - Цифровой
 computronics:computronics.ticketMachine, Автомат для печати билетов
 computronics:computronics.speechBox, Speech Box
+customnpcs:npcRedstoneBlock, Редстоун Блок
+customnpcs:npcCarpentyBench:0, Верстак Плотника
+customnpcs:npcCarpentyBench:1, Наковальня
+customnpcs:npcMailbox:0, Почтовый Ящик
+customnpcs:npcMailbox:1, Почтовый Ящик
+customnpcs:npcWaypoint, Локационный Квестовый Блок
+customnpcs:npcBorder, Граница
+customnpcs:npcBloodBlock, Блок Крови
+customnpcs:npcBanner:0, Баннер
+customnpcs:npcBanner:1, Баннер
+customnpcs:npcBanner:2, Баннер
+customnpcs:npcBanner:3, Баннер
+customnpcs:npcBanner:4, Баннер
+customnpcs:npcWallBanner:0, Стена Баннер
+customnpcs:npcWallBanner:1, Стена Баннер
+customnpcs:npcWallBanner:2, Стена Баннер
+customnpcs:npcWallBanner:3, Стена Баннер
+customnpcs:npcWallBanner:4, Стена Баннер
+customnpcs:npcTallLamp:0, Высокая Лампа
+customnpcs:npcTallLamp:1, Высокая Лампа
+customnpcs:npcTallLamp:2, Высокая Лампа
+customnpcs:npcTallLamp:3, Высокая Лампа
+customnpcs:npcTallLamp:4, Высокая Лампа
+customnpcs:npcChair:0, Стул
+customnpcs:npcChair:1, Стул
+customnpcs:npcChair:2, Стул
+customnpcs:npcChair:3, Стул
+customnpcs:npcChair:4, Стул
+customnpcs:npcChair:5, Стул
+customnpcs:npcCrate:0, Ящик
+customnpcs:npcCrate:1, Ящик
+customnpcs:npcCrate:2, Ящик
+customnpcs:npcCrate:3, Ящик
+customnpcs:npcCrate:4, Ящик
+customnpcs:npcCrate:5, Ящик
+customnpcs:npcWeaponRack:0, Оружейная Стойка
+customnpcs:npcWeaponRack:1, Оружейная Стойка
+customnpcs:npcWeaponRack:2, Оружейная Стойка
+customnpcs:npcWeaponRack:3, Оружейная Стойка
+customnpcs:npcWeaponRack:4, Оружейная Стойка
+customnpcs:npcWeaponRack:5, Оружейная Стойка
+customnpcs:npcCouchWool:0, Шерстяной Диван
+customnpcs:npcCouchWool:1, Шерстяной Диван
+customnpcs:npcCouchWool:2, Шерстяной Диван
+customnpcs:npcCouchWool:3, Шерстяной Диван
+customnpcs:npcCouchWool:4, Шерстяной Диван
+customnpcs:npcCouchWool:5, Шерстяной Диван
+customnpcs:npcCouchWood:0, Деревянный Диван
+customnpcs:npcCouchWood:1, Деревянный Диван
+customnpcs:npcCouchWood:2, Деревянный Диван
+customnpcs:npcCouchWood:3, Деревянный Диван
+customnpcs:npcCouchWood:4, Деревянный Диван
+customnpcs:npcCouchWood:5, Деревянный Диван
+customnpcs:npcTable:0, Деревянный Стол
+customnpcs:npcTable:1, Деревянный Стол
+customnpcs:npcTable:2, Деревянный Стол
+customnpcs:npcTable:3, Деревянный Стол
+customnpcs:npcTable:4, Деревянный Стол
+customnpcs:npcTable:5, Деревянный Стол
+customnpcs:npcStool:0, Стул
+customnpcs:npcStool:1, Стул
+customnpcs:npcStool:2, Стул
+customnpcs:npcStool:3, Стул
+customnpcs:npcStool:4, Стул
+customnpcs:npcStool:5, Стул
+customnpcs:npcPlaceholder:0, Заполнитель
+customnpcs:npcPlaceholder:1, Заполнитель
+customnpcs:npcPlaceholder:2, Заполнитель
+customnpcs:npcPlaceholder:3, Заполнитель
+customnpcs:npcPlaceholder:4, Заполнитель
+customnpcs:npcPlaceholder:5, Заполнитель
+customnpcs:npcPlaceholder:6, Заполнитель
+customnpcs:npcPlaceholder:7, Заполнитель
+customnpcs:npcPlaceholder:8, Заполнитель
+customnpcs:npcPlaceholder:9, Заполнитель
+customnpcs:npcPlaceholder:10, Заполнитель
+customnpcs:npcPlaceholder:11, Заполнитель
+customnpcs:npcPlaceholder:12, Заполнитель
+customnpcs:npcPlaceholder:13, Заполнитель
+customnpcs:npcPlaceholder:14, Заполнитель
+customnpcs:npcPlaceholder:15, Заполнитель
+customnpcs:npcBigSign, Большой Знак
+customnpcs:npcBarrel:0, Бочка
+customnpcs:npcBarrel:1, Бочка
+customnpcs:npcBarrel:2, Бочка
+customnpcs:npcBarrel:3, Бочка
+customnpcs:npcBarrel:4, Бочка
+customnpcs:npcBarrel:5, Бочка
+customnpcs:npcTombstone:0, Надгробная Плита
+customnpcs:npcTombstone:1, Надгробная Плита
+customnpcs:npcTombstone:2, Надгробная Плита
+customnpcs:npcShelf:0, Полка
+customnpcs:npcShelf:1, Полка
+customnpcs:npcShelf:2, Полка
+customnpcs:npcShelf:3, Полка
+customnpcs:npcShelf:4, Полка
+customnpcs:npcShelf:5, Полка
+customnpcs:npcSign:0, Знак
+customnpcs:npcSign:1, Знак
+customnpcs:npcSign:2, Знак
+customnpcs:npcSign:3, Знак
+customnpcs:npcSign:4, Знак
+customnpcs:npcSign:5, Знак
+customnpcs:npcBeam:0, Луч
+customnpcs:npcBeam:1, Луч
+customnpcs:npcBeam:2, Луч
+customnpcs:npcBeam:3, Луч
+customnpcs:npcBeam:4, Луч
+customnpcs:npcBeam:5, Луч
+customnpcs:npcBook, Книга
+customnpcs:npcPedestal:0, Пьедестал
+customnpcs:npcPedestal:1, Пьедестал
+customnpcs:npcPedestal:2, Пьедестал
+customnpcs:npcPedestal:3, Пьедестал
+customnpcs:npcPedestal:4, Пьедестал
+customnpcs:npcCrystalBlock:0, Кристалл
+customnpcs:npcCrystalBlock:1, Кристалл
+customnpcs:npcCrystalBlock:2, Кристалл
+customnpcs:npcCrystalBlock:3, Кристалл
+customnpcs:npcCrystalBlock:4, Кристалл
+customnpcs:npcCrystalBlock:5, Кристалл
+customnpcs:npcCrystalBlock:6, Кристалл
+customnpcs:npcCrystalBlock:7, Кристалл
+customnpcs:npcCrystalBlock:8, Кристалл
+customnpcs:npcCrystalBlock:9, Кристалл
+customnpcs:npcCrystalBlock:10, Кристалл
+customnpcs:npcCrystalBlock:11, Кристалл
+customnpcs:npcCrystalBlock:12, Кристалл
+customnpcs:npcCrystalBlock:13, Кристалл
+customnpcs:npcCrystalBlock:14, Кристалл
+customnpcs:npcCrystalBlock:15, Кристалл
+customnpcs:npcCampfire, Костёр
+customnpcs:npcLamp, Лампа
+customnpcs:npcCandle, Свеча
+customnpcs:npcCampfireUnlit, Костёр
+customnpcs:npcLampUnlit, Свеча
+customnpcs:npcCandleUnlit, Лампа
 Eln:Eln.ghostBlock, tile.null.name
 Eln:Eln.lightBlock, tile.null.name
 Eln:Eln.SixNode:128, Заземляющий провод
@@ -13822,7 +13959,7 @@ extracells:vibrantchamberfluid, Жидкостная вибрационная к
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
+ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -14835,6 +14972,7 @@ minecraft:record_strad, Пластинка
 minecraft:record_ward, Пластинка
 minecraft:record_11, Пластинка
 minecraft:record_wait, Пластинка
+Aroma1997Core:wrench, Aromic Hammer
 appliedenergistics2:item.ToolEntropyManipulator, Манипулятор энтропии
 appliedenergistics2:item.ToolWirelessTerminal, Беспроводной терминал
 appliedenergistics2:item.ToolBiometricCard, Биометрическая карта
@@ -16432,6 +16570,22 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Solid Sup
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Magic Solid Super Fuel
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок хамелиума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполнитель
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вольфрамовая руда
@@ -21568,6 +21722,401 @@ computronics:computronics.partsForestry:0, Каустическая сота
 computronics:computronics.partsForestry:1, Каустическая капля
 computronics:computronics.droneStation, Стыковочная станция дронов
 computronics:computronics.dockingUpgrade:0, Улучшение: стыковка
+customnpcs:npcWand, Настройщик NPC
+customnpcs:npcMobCloner, Клонер NPC
+customnpcs:npcScripter, Сценарист
+customnpcs:npcMovingPath, Путевод NPC
+customnpcs:npcMounter, Спаунер NPC
+customnpcs:npcTeleporter, Телепортер
+customnpcs:npcSoulstoneEmpty, Soulstone Empty
+customnpcs:npcSoulstoneFilled, Soulstone Filled
+customnpcs:npcBanjo, Банжо
+customnpcs:npcViolin, Скрипка
+customnpcs:npcViolinBow, Смычок
+customnpcs:npcHarp, Арфа
+customnpcs:npcGuitar, Гитара
+customnpcs:npcFrenchHorn, Валторна
+customnpcs:npcOcarina, Окарина
+customnpcs:npcClarinet, Кларнет
+customnpcs:npcWoodenGun, Деревянный Пистолет
+customnpcs:npcWoodenBullet, Деревянная Пуля
+customnpcs:npcStoneGun, Каменный Пистолет
+customnpcs:npcStoneBullet, Каменная Пуля
+customnpcs:npcIronGun, Железный Пистолет
+customnpcs:npcIronBullet, Железная Пуля
+customnpcs:npcGoldGun, Золотой Пистолет
+customnpcs:npcGoldenBullet, Золотая Пуля
+customnpcs:npcDiamondGun, Алмазный Пистолет
+customnpcs:npcDiamondBullet, Алмазная Пуля
+customnpcs:npcBronzeGun, Бронзовый Пистолет
+customnpcs:npcBronzeBullet, Бронзовая Пуля
+customnpcs:npcEmeraldGun, Изумрудный Пистолет
+customnpcs:npcEmeraldBullet, Изумрудная Пуля
+customnpcs:npcMachineGun, Автомат
+customnpcs:npcBlackBullet, Чёрная Пуля
+customnpcs:npcWoodenTrident, Деревянный Трезубец
+customnpcs:npcStoneTrident, Каменный Трезубец
+customnpcs:npcIronTrident, Железный Трезубец
+customnpcs:npcGoldTrident, Золотой Трезуебц
+customnpcs:npcDiamondTrident, Алмазный Трезубец
+customnpcs:npcBronzeTrident, Бронзовый Трезубец
+customnpcs:npcEmeraldTrident, Изумрудный Трезубец
+customnpcs:npcCursedTrident, Проклятый Трезубец
+customnpcs:npcDemonicTrident, Демонический Трезубец
+customnpcs:npcFrostTrident, Ледяной Трезубец
+customnpcs:npcMithrilTrident, Mithril Trident
+customnpcs:npcNatureSpell, Природное Заклинание
+customnpcs:npcArcaneSpell, Тайное Заклинание
+customnpcs:npcLightningSpell, Заклинание Молнии
+customnpcs:npcIceSpell, Ледяное Заклинание
+customnpcs:npcFireSpell, Огненное Заклинание
+customnpcs:npcDarkSpell, Тёмное Заклинание
+customnpcs:npcHolySpell, Святое Заклинание
+customnpcs:npcOrb:0, Сфера
+customnpcs:npcOrb:1, Сфера
+customnpcs:npcOrb:2, Сфера
+customnpcs:npcOrb:3, Сфера
+customnpcs:npcOrb:4, Сфера
+customnpcs:npcOrb:5, Сфера
+customnpcs:npcOrb:6, Сфера
+customnpcs:npcOrb:7, Сфера
+customnpcs:npcOrb:8, Сфера
+customnpcs:npcOrb:9, Сфера
+customnpcs:npcOrb:10, Сфера
+customnpcs:npcOrb:11, Сфера
+customnpcs:npcOrb:12, Сфера
+customnpcs:npcOrb:13, Сфера
+customnpcs:npcOrb:14, Сфера
+customnpcs:npcOrb:15, Сфера
+customnpcs:npcMana, Мана
+customnpcs:npcBrokenOrb:0, Разбитая Сфера
+customnpcs:npcBrokenOrb:1, Разбитая Сфера
+customnpcs:npcBrokenOrb:2, Разбитая Сфера
+customnpcs:npcBrokenOrb:3, Разбитая Сфера
+customnpcs:npcBrokenOrb:4, Разбитая Сфера
+customnpcs:npcBrokenOrb:5, Разбитая Сфера
+customnpcs:npcBrokenOrb:6, Разбитая Сфера
+customnpcs:npcBrokenOrb:7, Разбитая Сфера
+customnpcs:npcBrokenOrb:8, Разбитая Сфера
+customnpcs:npcBrokenOrb:9, Разбитая Сфера
+customnpcs:npcBrokenOrb:10, Разбитая Сфера
+customnpcs:npcBrokenOrb:11, Разбитая Сфера
+customnpcs:npcBrokenOrb:12, Разбитая Сфера
+customnpcs:npcBrokenOrb:13, Разбитая Сфера
+customnpcs:npcBrokenOrb:14, Разбитая Сфера
+customnpcs:npcBrokenOrb:15, Разбитая Сфера
+customnpcs:npcKunai, Кунай
+customnpcs:npcReverseKunai, Оратный Кунай
+customnpcs:npcShuriken, Сюрикен
+customnpcs:npcGiantShuriken, Гигантский Сюрикен
+customnpcs:npcKatana, Катана
+customnpcs:npcKukri, Кукри
+customnpcs:npcBronzeSword, Бронзовый Меч
+customnpcs:npcEmeraldSword, Изумрудный Меч
+customnpcs:npcDemonicSword, Демонический Меч
+customnpcs:npcFrostSword, Ледяной Меч
+customnpcs:npcMithrilSword, Mithril Sword
+customnpcs:npcGolfClub, Клюшка для гольфа
+customnpcs:npcMagicWand, Волшебная Палочка
+customnpcs:npcChickenSword, Цыпленок-мечь
+customnpcs:npcHandCuffs, Наручники
+customnpcs:npcHammer, Молот
+customnpcs:npcBaseballBat, Бейсбольная Бита
+customnpcs:npcLeadPipe, Ведущий трубы
+customnpcs:npcCleaver, Топор Мясника
+customnpcs:npcSaber, Сабля
+customnpcs:npcHockeyStick, Хоккейная Клюшка
+customnpcs:npcSledgeHammer, Кувалда
+customnpcs:npcBrokenBottle, Разбитая Бутылка
+customnpcs:npcCombatKnive, Конбинированый клинок
+customnpcs:npcMacuahuitl, Оружие Ацтеков
+customnpcs:npcBoStaff, Посох Бо
+customnpcs:npcSaiBlade, Лезвие Сай
+customnpcs:npcSlingshot, Рогатка
+customnpcs:npcMusket, Мушкет
+customnpcs:npcLeafBlade, Листовая пластинка
+customnpcs:npcCrossbow, Арбалет
+customnpcs:npcCrossBolt, Арбалетный Болт
+customnpcs:npcBatton, Баттон
+customnpcs:npcGunChainsaw, Автомат-Бензопила
+customnpcs:npcRapier, Рапира
+customnpcs:npcCrowbar, Лом
+customnpcs:npcPipeWrench, Ключь для труб
+customnpcs:npcSwissArmyKnife, Швейцарский Армейский Нож
+customnpcs:npcWrench, Гаечный ключ 
+customnpcs:npcExcalibur, Екскалибур
+customnpcs:npcWoodenShield, Круглый Деревянный Щит
+customnpcs:npcStoneShield, Круглый Каменный Щит
+customnpcs:npcIronShield, Круглый Железный Щит
+customnpcs:npcGoldenShield, Круглый Золотой Щит
+customnpcs:npcDiaShield, Круглый Алмазный Щит
+customnpcs:npcBronzeShield, Круглый Бронзовый Щит
+customnpcs:npcEmeraldShield, Круглый Изумрудный Щит
+customnpcs:npcDemonicShield, Демонический Щит
+customnpcs:npcFrostShield, Ледяной Щит
+customnpcs:npcMithrilShield, Mithril Shield
+customnpcs:npcFullWoodenShield, Деревянный Щит
+customnpcs:npcFullStoneShield, Каменный Щит
+customnpcs:npcFullIronShield, Железный Щит
+customnpcs:npcFullGoldenShield, Золотой Щит
+customnpcs:npcFullDiaShield, Алмазный Щит
+customnpcs:npcFullBronzeShield, Бронзовый Щит 
+customnpcs:npcFullEmeraldShield, Изумрудный Щит
+customnpcs:npcHeaterShield, Стальной Щит "Нагреватель" 
+customnpcs:npcCryscentShield, Стальной Щит "Полумесяц"
+customnpcs:npcScutumShield, Стальной Щит "Щиток"
+customnpcs:npcTowerShield, Стальной Щит "Башня"
+customnpcs:npcWoodenSpear, Деревянное Копье
+customnpcs:npcStoneSpear, Каменное Копье
+customnpcs:npcIronSpear, Железное Копье
+customnpcs:npcGoldenSpear, Золотое Копье
+customnpcs:npcDiamondSpear, Алмазное Копье
+customnpcs:npcBronzeSpear, Бронзовое Копье
+customnpcs:npcEmeraldSpear, Изумрудное Копье
+customnpcs:npcDemonicSpear, Демоническое Копье
+customnpcs:npcFrostSpear, Ледяное Копье
+customnpcs:npcMithrilSpear, Mithril Spear
+customnpcs:npcWoodenHalberd, Деревянная Алебарда
+customnpcs:npcStoneHalberd, Каменная Алебарда
+customnpcs:npcIronHalberd, Железная Алебарда
+customnpcs:npcGoldenHalberd, Золотая Алебарда
+customnpcs:npcDiamondHalberd, Алмазная Алебарда
+customnpcs:npcBronzeHalberd, Бронзовая Алебарда
+customnpcs:npcEmeraldHalberd, Изумрудная Алебарда
+customnpcs:npcDemonicHalberd, Демоническая Алебарда
+customnpcs:npcFrostHalberd, Ледяная Алебарда
+customnpcs:npcMithrilHalberd, Mithril Halberd
+customnpcs:npcWoodenBattleAxe, Деревянный Боевой Топор
+customnpcs:npcStoneBattleAxe, Каменный Боевой Топор
+customnpcs:npcIronBattleAxe, Железный Боевой Топор
+customnpcs:npcGoldenBattleAxe, Золотой Боевой Топор
+customnpcs:npcDiamondBattleAxe, Алмазный Боевой Топор
+customnpcs:npcBronzeBattleAxe, Бронзовый Боевой Топор
+customnpcs:npcEmeraldBattleAxe, Изумрудный Боевой Топор
+customnpcs:npcDemonicBattleAxe, Демонический Боевой Топор
+customnpcs:npcFrostBattleAxe, Ледяной Боевой Топор
+customnpcs:npcMithrilBattleAxe, Mithril Battle Axe
+customnpcs:npcWoodenWarhammer, Деревянный Боевой Молот
+customnpcs:npcStoneWarhammer, Каменный Боевой Молот
+customnpcs:npcIronWarhammer, Железный Боевой Молот
+customnpcs:npcGoldenWarhammer, Золотой Боевой Молот
+customnpcs:npcDiamondWarhammer, Алмазный Боевой Молот
+customnpcs:npcBronzeWarhammer, Бронзовый Боевой Молот
+customnpcs:npcEmeraldWarhammer, Изумрудный Боевой Молот
+customnpcs:npcDemonicWarhammer, Демонический Боевой Молот
+customnpcs:npcFrostWarhammer, Ледяной Боевой Молот
+customnpcs:npcMithrilWarhammer, Mithril Warhammer
+customnpcs:npcWoodenMace, Деревянная Булава
+customnpcs:npcStoneMace, Каменная Булава
+customnpcs:npcIronMace, Железная Булава
+customnpcs:npcGoldenMace, Золотая Булава
+customnpcs:npcDiamondMace, Алмазная Булава
+customnpcs:npcBronzeMace, Бронзовая Булава
+customnpcs:npcEmeraldMace, Изумрудная Булава
+customnpcs:npcDemonicMace, Демоническая Булава
+customnpcs:npcFrostMace, Ледяная Булава
+customnpcs:npcMithrilMace, Mithril Mace
+customnpcs:npcWoodenDagger, Деревянный Кинжал
+customnpcs:npcWoodenReversedDagger, Обратный Деревянный Кинжал
+customnpcs:npcStoneDagger, Каменный Кинжал
+customnpcs:npcStoneReversedDagger, Обратный Каменный Кинжал
+customnpcs:npcIronDagger, Железный Кинжал
+customnpcs:npcIronReversedDagger, Обратный Железный Кинжал
+customnpcs:npcGoldenDagger, Золотой Кинжал
+customnpcs:npcGoldenReversedDagger, Обратный Золотой Кинжал
+customnpcs:npcDiamondDagger, Алмазный Кинжал
+customnpcs:npcDiamondReversedDagger, Обратный Алмазный Кинжал
+customnpcs:npcBronzeDagger, Бронзовый Кинжал
+customnpcs:npcBronzeReversedDagger, Обратный Бронзовый Кинжал
+customnpcs:npcEmeraldDagger, Изумрудный Кинжал
+customnpcs:npcEmeraldReversedDagger, Обратный Изумрудный Кинжал
+customnpcs:npcDemonicDagger, Демонический Кинжал
+customnpcs:npcDemonicReversedDagger, Обратный Демонический Кинжал
+customnpcs:npcFrostDagger, Ледяной Кинжал
+customnpcs:npcFrostReversedDagger, Обратный Ледяной Кинжал
+customnpcs:npcMithrilDagger, Mithril Dagger
+customnpcs:npcMithrilReversedDagger, Reversed Mithril Dagger
+customnpcs:npcNinjaClaw, Коготь Ниндзя
+customnpcs:npcSteelClaw, Стальной Коготь
+customnpcs:npcBearClaw, Медвежий Коготь
+customnpcs:npcKatar, Катар
+customnpcs:npcWoodenStaff, Деревянный Посох
+customnpcs:npcStoneStaff, Каменный Посох
+customnpcs:npcIronStaff, Железный Посох
+customnpcs:npcGoldenStaff, Золотой Посох
+customnpcs:npcDiamondStaff, Алмазный Посох
+customnpcs:npcBronzeStaff, Бронзовый Посох
+customnpcs:npcEmeraldStaff, Изумрудный Посох
+customnpcs:npcDemonicStaff, Демонический Посох
+customnpcs:npcFrostStaff, Ледяной Посох
+customnpcs:npcMithrilStaff, Mithril Staff
+customnpcs:npcElementalStaff:0, Элементальный Посох
+customnpcs:npcElementalStaff:1, Элементальный Посох
+customnpcs:npcElementalStaff:2, Элементальный Посох
+customnpcs:npcElementalStaff:3, Элементальный Посох
+customnpcs:npcElementalStaff:4, Элементальный Посох
+customnpcs:npcElementalStaff:5, Элементальный Посох
+customnpcs:npcElementalStaff:6, Элементальный Посох
+customnpcs:npcElementalStaff:7, Элементальный Посох
+customnpcs:npcElementalStaff:8, Элементальный Посох
+customnpcs:npcElementalStaff:9, Элементальный Посох
+customnpcs:npcElementalStaff:10, Элементальный Посох
+customnpcs:npcElementalStaff:11, Элементальный Посох
+customnpcs:npcElementalStaff:12, Элементальный Посох
+customnpcs:npcElementalStaff:13, Элементальный Посох
+customnpcs:npcElementalStaff:14, Элементальный Посох
+customnpcs:npcElementalStaff:15, Элементальный Посох
+customnpcs:npcWoodenScythe, Деревянная Коса
+customnpcs:npcStoneScythe, Каменная Коса
+customnpcs:npcIronScythe, Железная Коса
+customnpcs:npcGoldenScythe, Золотая Коса
+customnpcs:npcDiamondScythe, Алмазная Коса
+customnpcs:npcEmeraldScythe, Изумрудная Коса
+customnpcs:npcBronzeScythe, Бронзовая Коса
+customnpcs:npcDemonicScythe, Демоническая Коса
+customnpcs:npcFrostScythe, Ледяная Коса
+customnpcs:npcMithrilScythe, Mithril Scythe
+customnpcs:npcWoodenGlaive, Деревянный Меч
+customnpcs:npcStoneGlaive, Каменный Меч
+customnpcs:npcIronGlaive, Железный Меч
+customnpcs:npcGoldenGlaive, Золотой Меч
+customnpcs:npcDiamondGlaive, Алмазный Меч
+customnpcs:npcBronzeGlaive, Бронзовый Меч
+customnpcs:npcEmeraldGlaive, Изумрудный Меч
+customnpcs:npcDemonicGlaive, Демонический Меч
+customnpcs:npcFrostGlaive, Ледяной Меч
+customnpcs:npcMithrilGlaive, Mithril Glaive
+customnpcs:npcWoodenBroadsword, Деревянный Палаш
+customnpcs:npcStoneBroadsword, Каменный Палаш
+customnpcs:npcIronBroadsword, Делезный Палаш
+customnpcs:npcGoldenBroadsword, Золотой Палаш
+customnpcs:npcDiamondBroadsword, Алмазный Палаш
+customnpcs:npcBronzeBroadsword, Бронзовый Палаш
+customnpcs:npcEmeraldBroadsword, Изумрудный Палаш
+customnpcs:npcDemonicBroadsword, Демонический Палаш
+customnpcs:npcFrostBroadsword, Ледяной Палаш
+customnpcs:npcMithrilBroadsword, Mithril Broadsword
+customnpcs:npcCowleatherHead, Шлем из кожи коровы
+customnpcs:npcCowleatherChest, Нагрудник из кожи коровы
+customnpcs:npcCowleatherLegs, Поножи из кожи коровы
+customnpcs:npcCowleatherBoots, Ботинки из кожи коровы
+customnpcs:npcNanorumHead, Шлем Рыцаря
+customnpcs:npcNanorumChest, Нагрудник Рыцаря
+customnpcs:npcNanorumLegs, Поножи Рыцаря
+customnpcs:npcNanorumBoots, Ботинки Рыцаря 
+customnpcs:npcTacticalHead, Тактический Шлем
+customnpcs:npcTacticalChest, Тактический Жилет
+customnpcs:npcFullLeatherHead, Полный Кожаный Шлем
+customnpcs:npcFullLeatherChest, Полный Кожаный Нагрудник
+customnpcs:npcFullIronHead, Полный Железный Шлем
+customnpcs:npcFullIronChest, Полный Железный Нагрудник
+customnpcs:npcFullGoldHead, Полный Золотой Шлем
+customnpcs:npcFullGoldChest, Полный Золотой Нагрудник
+customnpcs:npcFullDiamondHead, Полный Алмазный Шлем
+customnpcs:npcFullDiamondChest, Полный Алмазный Нагрудник
+customnpcs:npcFullBronzeHead, Полный Бронзовый Шлем
+customnpcs:npcFullBronzeChest, Полный Бронзовый Нагрудник
+customnpcs:npcFullBronzeLeggings, Полные Бронзовые Поножи
+customnpcs:npcFullBronzeBoots, Полные Бронзовые Ботинки
+customnpcs:npcFullEmeraldHead, Полный Изумрудный Шлем
+customnpcs:npcFullEmeraldChest, Полный Изумрудный Нагрудник
+customnpcs:npcFullEmeraldLeggings, Полные Изумрудные Поножи
+customnpcs:npcFullEmeraldBoots, Полные Изумрудные Ботинки
+customnpcs:npcFullWoodenHead, Полный Деревянный Шлем
+customnpcs:npcFullWoodenChest, Полный Деревянный Нагрудник
+customnpcs:npcFullWoodenLeggings, Полный Деревянные Поножи
+customnpcs:npcFullWoodenBoots, Полный Деревянные Ботинки
+customnpcs:npcTuxedoChest, Смокинг(Нагрудник)
+customnpcs:npcTuxedoPants, Смокинг(Поножи)
+customnpcs:npcTuxedoBottom, Смокинг(Плащ)
+customnpcs:npcWizardHead, Шлем Волшебника
+customnpcs:npcWizardChest, Нагрудник Волшебника
+customnpcs:npcWizardPants, Поножи Волшебника
+customnpcs:npcAssassinHead, Шлем Ассасина
+customnpcs:npcAssassinChest, Нагрудник Ассасина
+customnpcs:npcAssassinLeggings, Поножи Ассасина
+customnpcs:npcAssassinBoots, Ботинки Ассасина
+customnpcs:npcSoldierHead, Шлем Солдата
+customnpcs:npcSoldierChest, Нагрудник Солдата
+customnpcs:npcSoldierLegs, Поножи Солдата
+customnpcs:npcSoldierBottom, Плащ Солдата
+customnpcs:npcX407Head, X407 Прототипный Шлема
+customnpcs:npcX407Chest, X407 Прототип Нагрудника
+customnpcs:npcX407Legs, X407 Прототип Поножи
+customnpcs:npcX407Boots, X407 Прототип Ботинок
+customnpcs:npcMithrilHead, Mithril Helmet
+customnpcs:npcMithrilChest, Mithril ChestPlate
+customnpcs:npcMithrilLegs, Mithril Leggings
+customnpcs:npcMithrilBoots, Mithril Boots
+customnpcs:npcDemonicHead, Demonic Helmet
+customnpcs:npcDemonicChest, Demonic ChestPlate
+customnpcs:npcDemonicLegs, Demonic Leggings
+customnpcs:npcDemonicBoots, Demonic Boots
+customnpcs:npcCommissarHead, Шлем Комиссара
+customnpcs:npcCommissarChest, Нагрудник Комиссара
+customnpcs:npcCommissarLegs, Поножи Комиссара
+customnpcs:npcCommissarBottom, Плащ Комиссара
+customnpcs:npcInfantryHelmet, Шлем Пехоты
+customnpcs:npcOfficerChest, Нагрудник Офицера
+customnpcs:npcCrown2, Корона
+customnpcs:npcCrown, Корона
+customnpcs:npcPaperCrown, Бумажная Корона
+customnpcs:npcNinjaHead, Шлем Ниндзя
+customnpcs:npcNinjaChest, Нагрудник Ниндзя
+customnpcs:npcNinjaPants, Поножи Ниндзя
+customnpcs:npcChainSkirt, Кольчужная Юбка
+customnpcs:npcLeatherSkirt, Кожаный Юбка
+customnpcs:npcGoldSkirt, Золотой Юбка
+customnpcs:npcIronSkirt, Железная Юбка
+customnpcs:npcDiamondSkirt, Алмазная Юбка
+customnpcs:npcEmeraldSkirt, Emerald Skirt
+customnpcs:npcBronzeSkirt, Bronze Skirt
+customnpcs:npcDemonicSkirt, Demonic Skirt
+customnpcs:npcMithrilSkirt, Mithril Skirt
+customnpcs:npcCoinWooden, Деревянная Монета
+customnpcs:npcCoinStone, Каменная Монета
+customnpcs:npcCoinBronze, Бронзовая Монета
+customnpcs:npcCoinIron, Железная Монета
+customnpcs:npcCoinGold, Золотая Монета
+customnpcs:npcCoinDiamond, Алмазная Монета
+customnpcs:npcCoinEmerald, Изумрудная Монета
+customnpcs:npcAncientCoin, Древняя Монета
+customnpcs:npcLetter, Письмо
+customnpcs:npcPlans, Конверт
+customnpcs:npcSatchel, Мешок
+customnpcs:npcBag, Сумка
+customnpcs:npcCrystal, Кристалл
+customnpcs:npcSeveredEar, Серверированая Уха
+customnpcs:npcPhone, Телефон
+customnpcs:npcBanditMask, Бандитская Маска
+customnpcs:npcBrokenArrow, Сломаная Стрела
+customnpcs:npcEarthElement, Земляной Элемент
+customnpcs:npcWaterElement, Водяной Элемент
+customnpcs:npcFireElement, Огненный Элемент
+customnpcs:npcAirElement, Воздушный Элемент
+customnpcs:npcCarKey, Автомобильные ключи
+customnpcs:npcKey, Ключ
+customnpcs:npcKey2, Ключ
+customnpcs:npcPendant, Кулон
+customnpcs:npcBlueprint, План
+customnpcs:npcRing, Кольцо
+customnpcs:npcSkull, Череп
+customnpcs:npcSaphire, Сапфир
+customnpcs:npcRuby, Рубин
+customnpcs:npcAmethyst, Аметис
+customnpcs:npcBronzeIngot, Бронзовый Слиток
+customnpcs:npcDemonicIngot, Демонический Слиток
+customnpcs:npcMithrilIngot, Mithril Ingot
+customnpcs:npcAncientScroll, Древний Свиток
+customnpcs:npcArtifact, Артефакт
+customnpcs:npcLocket, Медальон
+customnpcs:npcSilk, Шелк
+customnpcs:npcStatuette, Статуетка
+customnpcs:npcTablet, Скрижаль
+customnpcs:npcHeart, Heart
+customnpcs:npcMoney, Money
+customnpcs:npcNecklace, Necklace
+customnpcs:npcUsbStick, USB-Stick
 Eln:eln.itemCreativeTab, item.eln:elncreativetab.name
 Eln:Eln.sharedItem:6279, Lead Fuse for low voltage cables
 Eln:Eln.sharedItem:6280, Lead Fuse for medium voltage cables
