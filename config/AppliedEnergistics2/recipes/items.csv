@@ -13842,6 +13842,7 @@ IronChest:BlockIronChest:5, Кристальный сундук
 IronChest:BlockIronChest:6, Обсидиановый сундук
 IronChest:BlockIronChest:7, DirtChest 9000!
 JABBA:barrel, Better Barrel
+PowerUtils:BlockMain:0, Power Converter
 rivalrebels:rivalrebelsblock0, tile.rivalrebels.blocks.0.name
 rivalrebels:rivalrebelsblock1, tile.rivalrebels.blocks.1.name
 rivalrebels:rivalrebelsblock2, tile.rivalrebels.blocks.2.name
@@ -21253,6 +21254,10 @@ JABBA:hammer:5, Бочкообразный молот (Структурный)
 JABBA:hammer:6, Бочкообразный молот (Пустотный)
 JABBA:hammer:7, Бочкообразный молот (Творческий)
 JABBA:tuningFork, Пространственный камертон
+PowerUtils:pu_storage_module:0, Module IC
+PowerUtils:pu_storage_module:1, Module TE
+PowerUtils:pu_storage_module:2, Module BC
+PowerUtils:pu_storage_module:3, Module UE
 rivalrebels:rivalrebelsitem0, item.rivalrebelsitem0.name
 rivalrebels:rivalrebelsitem1, item.rivalrebelsitem1.name
 rivalrebels:rivalrebelsitem2, item.rivalrebelsitem2.name
