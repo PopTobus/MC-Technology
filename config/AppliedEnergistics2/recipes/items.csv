@@ -13959,7 +13959,7 @@ extracells:vibrantchamberfluid, Жидкостная вибрационная к
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -14328,6 +14328,7 @@ ExtraUtilities:etherealglass:2, Тёмное эфирное стекло
 ExtraUtilities:etherealglass:3, Эфирное стекло (Инвертированное)
 ExtraUtilities:etherealglass:4, Невыразимое стекло (Инвертированное)
 ExtraUtilities:etherealglass:5, Тёмное эфирное стекло (Инвертированное)
+Trajectory:moving, tile.moving.name
 gendustry:fluid.Mutagen, Мутаген
 gendustry:fluid.LiquidDNA, Жидкий ДНК
 gendustry:fluid.Protein, Протеин
@@ -14448,7 +14449,6 @@ SGCraft:naquadahBlock, Naquadah Alloy Block
 SGCraft:naquadahOre, Naquadah Ore
 SGCraft:ic2PowerUnit, IC2 Stargate Power Unit
 SGCraft:ocInterface, OpenComputers Stargate Interface
-Trajectory:moving, tile.moving.name
 WarpDrive:blockChunkLoader, Загрузчик чанков
 WarpDrive:blockLaser, Лазер
 WarpDrive:blockLaserMedium, Лазерный излучатель (Ускоритель частиц)
